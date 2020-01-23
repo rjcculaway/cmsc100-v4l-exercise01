@@ -1,0 +1,56 @@
+/*
+	Exercise 01: Git/Hub WorkFlow
+		Name: Rene Jotham C. Culaway
+		Date: January 23, 2020
+		Program Description: This CSS document is used to demonstrate the capabilitie of Git and GitHub.
+*/
+
+/* Sets the universal text font and color */
+* {
+	color: #F1F0E2;
+	font-family: 'Work Sans', sans-serif;
+	
+}
+
+/* Changes the color of the body */
+body {
+	
+	background-color: #C2E7F2;
+	margin: 0;
+}
+
+/* Modifies the header */
+h1 {
+
+	font-family: 'Coda', cursive;
+	font-weight: 800;
+	font-size: 48pt;
+	text-align: center;
+	color: azure;
+	margin: 72px 0 50px 0;
+	line-height: 0;
+	/*background-color: white;*/
+
+}
+
+/* Modifies the subheader */
+h2 {
+	
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 400;
+	margin: 10px;
+	text-align: center;
+	
+}
+
+/* Describes the main div */
+.main {
+	
+	padding: 30px;
+	width: 1280px;
+	margin: 0 auto;
+	background-color: #3E4E59;
+	border-left: solid 1px #F1F0E2;
+	border-right: solid 1px #F1F0E2;
+	
+}
